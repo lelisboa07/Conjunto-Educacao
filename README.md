@@ -12,12 +12,12 @@ Professor Orientador: Rafaella Egues da Rosa e Iuri Nascimento Santos
 
 Período: Maio a Novembro de 2025
 
-# Objetivo da Aplicação
+## Objetivo da Aplicação
 
 Fortalecer a educação inclusiva nos anos iniciais, por meio de uma plataforma que promove o diálogo entre famílias e profissionais da pedagogia, além de conscientizar sobre a importância de práticas educativas inclusivas para o desenvolvimento integral das crianças.
 
-# Tecnologias usadas
+## Tecnologias usadas
 
-  HTML
-  CSS
-  JavaScript
+- HTML
+- CSS
+- JavaScript
