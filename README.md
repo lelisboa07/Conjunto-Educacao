@@ -21,3 +21,11 @@ Fortalecer a educação inclusiva nos anos iniciais, por meio de uma plataforma 
 - HTML
 - CSS
 - JavaScript
+
+## Configuração e Instalação
+
+Para que a aplicação funcione corretamente, siga os passos abaixo.
+
+### Pré-requisitos:
+- Node.js
+- Servidor MySQL
